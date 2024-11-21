@@ -8,7 +8,7 @@
 
 5 - ::1
 
-6 - r
+6 - r 
 
 7 - LD_LIBBARY_PATH
 
